@@ -15,10 +15,10 @@
 5. In this project Implemented below things
 
    1. Spring Security
-   2. REST API CALLS
+   2. Rest Api Calls
    3. Validations both server and client
    4. Session Timeout and Page redirection
    5. Pagination for data retrivals
-   6. appserver should be wildfly or tomacat
-   7. postgresql database
-   8. created JPA repository's for auto create tables
+   6. Appserver should be wildfly or tomacat
+   7. Postgresql database
+   8. Created JPA repository's for auto create tables
