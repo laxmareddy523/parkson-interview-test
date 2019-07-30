@@ -1,6 +1,4 @@
-# parkson-interview-test
-
-# Simple Login Crud Operations using AngularJS and Spring boot Security 
+# Simple Login Crud Operations using AngularJS and Spring boot Security for Parskson interview Test
 
 # Steps to build Spring Boot MVC application
 
